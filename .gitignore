@@ -1,5 +1,5 @@
 
-
+*.md
 venv/
 
 data/
