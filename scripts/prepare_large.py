@@ -246,8 +246,8 @@ def main():
         print("  ✅ SUCCESS! LARGE DATASET READY!")
         print("="*80)
         print("\nNow you can run your ML model with real data:")
-        print("  cd ml_models")
-        print("  python expense_predictor.py")
+        print("  cd ../src")
+        print("  python run_all_systems.py")
         print("\nYour model will now train on 100,000+ REAL transactions! 🚀")
     else:
         print("\n❌ Setup incomplete. Please follow manual instructions above.")
