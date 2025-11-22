@@ -152,8 +152,8 @@ def check_and_fix_columns():
     
     print(f"\n✅ DONE! Your file is now ready!")
     print(f"\nNow run:")
-    print(f"   cd ../ml_models")
-    print(f"   python expense_predictor.py")
+    print(f"   cd ../src")
+    print(f"   python run_all_systems.py")
     
     return df
 
